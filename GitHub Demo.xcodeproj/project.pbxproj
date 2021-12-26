@@ -11,6 +11,7 @@
 		EAD1A5F62778709400776C5F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD1A5F52778709400776C5F /* ContentView.swift */; };
 		EAD1A5F82778709700776C5F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAD1A5F72778709700776C5F /* Assets.xcassets */; };
 		EAD1A5FB2778709700776C5F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EAD1A5FA2778709700776C5F /* Preview Assets.xcassets */; };
+		EAD1A60227789D8400776C5F /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = EAD1A60127789D8400776C5F /* Model.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		EAD1A5F52778709400776C5F /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		EAD1A5F72778709700776C5F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EAD1A5FA2778709700776C5F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		EAD1A60127789D8400776C5F /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				EAD1A5F32778709400776C5F /* GitHub_DemoApp.swift */,
 				EAD1A5F52778709400776C5F /* ContentView.swift */,
+				EAD1A60127789D8400776C5F /* Model.swift */,
 				EAD1A5F72778709700776C5F /* Assets.xcassets */,
 				EAD1A5F92778709700776C5F /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EAD1A60227789D8400776C5F /* Model.swift in Sources */,
 				EAD1A5F62778709400776C5F /* ContentView.swift in Sources */,
 				EAD1A5F42778709400776C5F /* GitHub_DemoApp.swift in Sources */,
 			);
