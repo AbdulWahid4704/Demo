@@ -11,4 +11,6 @@ struct Model {
     
     var name: String?
     
+    var age: Int?
+    
 }
