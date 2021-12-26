@@ -11,6 +11,6 @@ struct Model {
     
     var name: String = "Max"
     
-    var age: Int?
+    var age: Int = 22
     
 }
